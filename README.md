@@ -42,7 +42,7 @@ This project provides scripts to:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/dungv798/Fullstack-Assignment.git
    cd project-name
 
 2. Create and activate a virtual environment (optional but recommended):
