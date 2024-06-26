@@ -1,0 +1,11 @@
+PyMuPDF
+python-docx
+deep-translator
+python-pptx
+Pillow
+lxml
+requests>=2.23.0,<3.0.0
+beautifulsoup4
+XlsxWriter
+fpdf
+googletrans==4.0.0-rc1
